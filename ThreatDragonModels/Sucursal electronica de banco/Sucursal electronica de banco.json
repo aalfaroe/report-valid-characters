@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Sucursal electronica de banco",
+    "owner": "Anthony Alfaro Espinoza"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "banco",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Minor Madrigal"
+  }
+}
